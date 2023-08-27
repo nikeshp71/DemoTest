@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": false,
+    "target": "ES6",
+    "module": "commonjs",
+    "baseUrl": ".",
+    "paths": {
+      "@route/*": [
+        "src/route/*"
+      ],
+      "@store/*": [
+        "src/store/*"
+      ],
+      "@modules/*": [
+        "src/modules/*"
+      ],
+      "@storage/*": [
+        "src/storage/*"
+      ],
+      "@api/*": [
+        "src/api/*"
+      ],
+      "@src/*": [
+        "src/*"
+      ],
+    },
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
