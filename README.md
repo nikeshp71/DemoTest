@@ -15,5 +15,7 @@ Run npm run common. If you encounter any issues, don't worry—I've included a d
 
 For a quicker code review, I've prepared a PR for your convenience.
 
+### NOTE: Due to some android build issues with my android version I have not created APK
+
 Best regards,
 Nikesh Patel
